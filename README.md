@@ -7,9 +7,9 @@ https://github.com/SokovKirill/Key_Validator_IQA-16/issues/3
 
 Описание процесса тестирования
 В процессе тестирования использовались следующие артефакты*:
-Инструкция по установке OpenJDK11 работает под вашу ОС
-Приложение запускается и совместимо с Java 11
-Приложение работает согласно руководству использования
+Инструкция по установке OpenJDK11 работает под вашу ОС.
+Приложение запускается и совместимо с Java 11.
+Приложение работает согласно руководству использования.
 https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md 
 https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md 
  В качестве тестовых данных использовались данные https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md:
