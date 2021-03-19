@@ -16,7 +16,7 @@
 - [Инструкция по установке OpenJDK 11](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
 - [Руководство использования](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
-### В качестве тестовых данных использовались данные: <https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md:>:
+### В качестве тестовых данных использовались данные: 
 * <Валидные ключи:
 -	8f05e6a7-70e9-33d7-bfe7-b19eae0d8998
 -	80b427f8-92cd-3aae-ba04-3927fbe17c6
